@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/bondho-janala/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Bondho Janala](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/bondho-janala/) |
+| **Get License** | [Commercial Licensing for Bondho Janala](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/bondho-janala/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> বন্ধ জানালার ওপারে আজ নিস্তব্ধ এই রাত
+> অপেক্ষায় বসে আছি, কবে হবে প্রভাত
+> বিষণ্ণ এই মেঘের ভিড়ে খুঁজি তোমার মুখ
+> অচেনা এক ব্যথার মাঝে লুকিয়ে আছে সুখ
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
