@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Bondho Janala
+
+This log tracks the cryptographic history and versioning for the song **Bondho Janala** (bondho-janala).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-12T23:13:36.902457 | `v1` | `f3d89271936d5e58a017ac7fb358939cc4fdbebfa541e89eeeaa1e320f6f50e3` | `cc353080222dcbb49b977e82934e9d3985820a395382c35abfff9edcd0b2e7f3` | `2026-05-12_bondho-janala-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
